@@ -28,3 +28,8 @@ Este projeto apresenta um aplicativo web desenvolvido com Streamlit para explora
 .\vehicles_env\Scripts\Activate.ps1
 pip install -r requirements.txt
 streamlit run app.py
+
+```md
+## Links
+- Repositório GitHub: https://github.com/joaovspereira/JoaoVitorP
+- Aplicativo no Render: https://joaovitorp-1.onrender.com
