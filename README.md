@@ -29,7 +29,7 @@ Este projeto apresenta um aplicativo web desenvolvido com Streamlit para explora
 pip install -r requirements.txt
 streamlit run app.py
 
-```md
 ## Links
-- Repositório GitHub: https://github.com/joaovspereira/JoaoVitorP
-- Aplicativo no Render: https://joaovitorp-1.onrender.com
+
+Repositório GitHub: https://github.com/joaovspereira/JoaoVitorP
+Aplicativo no Render: https://joaovitorp-1.onrender.com
